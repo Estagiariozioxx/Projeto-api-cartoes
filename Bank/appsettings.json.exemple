@@ -1,6 +1,6 @@
 {
   "ConnectionStrings": {
-    "stringConexao": "Server=129.148.59.75;Database=aluno9;Uid=aluno9;Pwd=12345678Xx$;"
+    "stringConexao": ""
   },
   "Logging": {
     "LogLevel": {
