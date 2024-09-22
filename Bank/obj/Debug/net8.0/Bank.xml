@@ -5,21 +5,78 @@
     </assembly>
     <members>
         <member name="T:Bank.Controllers.CartoesController">
-             <summary>
-             Endpoints para gerenciar alunos.
-             </summary>
-            [Obsolete]
+            <summary>
+            Endpoints para cartoes.
+            </summary>
         </member>
         <member name="M:Bank.Controllers.CartoesController.ObterBandeira(System.String)">
             <summary>
-            Obtém todos os alunos
+            Obtém a bandeira do cartão com base nos primeiros 4 dígitos e o 8º dígito.
             </summary>
-            <returns>Uma lista de alunos.</returns>
+            <param name="cartao">O número do cartão de crédito (deve ter pelo menos 8 dígitos).</param>
+            <returns>Retorna a bandeira do cartão, se válida, ou uma mensagem de erro.</returns>
+            <response code="200">Retorna a bandeira do cartão (VISA, MASTERCARD, ELO).</response>
+            <response code="400">Retorna um erro de validação se o número do cartão for inválido.</response>
+            <response code="404">Retorna um erro se a bandeira do cartão não for encontrada.</response>
         </member>
-        <member name="P:IntroAPI.ViewModel.AlunoCriarViewModel.Nome">
+        <member name="M:Bank.Controllers.CartoesController.ValidaCartao(System.String)">
             <summary>
-            Nome do Aluno
+            Verifica se o cartão de crédito existe e está dentro da validade.
             </summary>
+            <param name="cartao">O número do cartão de crédito (deve ter exatamente 16 dígitos).</param>
+            <returns>Retorna true se o cartão existir e estiver válido, caso contrário, retorna false.</returns>
+            <response code="200">Retorna um objeto ApiResponse contendo true ou false, indicando a validade do cartão.</response>
+            <response code="400">Retorna um erro de validação se o número do cartão for inválido.</response>
+        </member>
+        <member name="T:Bank.Controllers.PagamentosController">
+            <summary>
+            Endpoints para Pagamentos.
+            </summary>
+        </member>
+        <member name="M:Bank.Controllers.PagamentosController.CalcularParcelas(Bank.ViewModel.CalcularParcelasViewModel)">
+            <summary>
+            Calcula o valor das parcelas de um pagamento.
+            </summary>
+            <param name="request">O modelo contendo os dados necessários para o cálculo das parcelas.</param>
+            <returns>Uma lista de parcelas calculadas.</returns>
+            <response code="200">Retorna a lista de parcelas calculadas.</response>
+            <response code="400">Retorna erros de validação se os dados de entrada forem inválidos.</response>
+        </member>
+        <member name="M:Bank.Controllers.PagamentosController.Pagamentos(Bank.ViewModel.PagamentosViewModel)">
+            <summary>
+            Processa o pagamento de uma transação.
+            </summary>
+            <param name="request">O modelo contendo os dados necessários para processar o pagamento.</param>
+            <returns>Um objeto contendo o ID da transação se o pagamento for criado com sucesso.</returns>
+            <response code="201">Pagamento criado com sucesso.</response>
+            <response code="400">Erro de validação, como cartão inválido ou dados incorretos.</response>
+        </member>
+        <member name="M:Bank.Controllers.PagamentosController.ObterSituacao(System.Int32)">
+            <summary>
+            Obtém a situação de um pagamento específico pelo ID.
+            </summary>
+            <param name="id">O ID do pagamento para o qual se deseja obter a situação.</param>
+            <returns>Retorna a situação do pagamento.</returns>
+            <response code="200">Retorna a situação do pagamento como uma string.</response>
+            <response code="400">Retorna um erro de validação se o ID do pagamento não for encontrado.</response>
+        </member>
+        <member name="M:Bank.Controllers.PagamentosController.ConfirmarPagamento(System.Int32)">
+            <summary>
+            Confirma o pagamento do ID informado, trocando a situação para "confirmado/2".
+            </summary>
+            <param name="id">O ID do pagamento que deve ser confirmado.</param>
+            <returns>Retorna um status code 200 se a confirmação foi bem-sucedida, ou BadRequest se não foi possível confirmar o pagamento.</returns>
+            <response code="200">Confirmação bem-sucedida do pagamento.</response>
+            <response code="400">Erro ao processar a requisição ou pagamento não encontrado.</response>
+        </member>
+        <member name="M:Bank.Controllers.PagamentosController.CancelarPagamento(System.Int32)">
+            <summary>
+            Confirma o pagamento do ID informado, trocando a situação para "cancelado/3".
+            </summary>
+            <param name="id">O ID do pagamento que deve ser confirmado.</param>
+            <returns>Retorna um status code 200 se a confirmação foi bem-sucedida, ou BadRequest se não foi possível confirmar o pagamento.</returns>
+            <response code="200">Confirmação bem-sucedida do pagamento.</response>
+            <response code="400">Erro ao processar a requisição ou pagamento não encontrado.</response>
         </member>
     </members>
 </doc>

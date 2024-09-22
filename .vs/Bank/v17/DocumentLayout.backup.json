@@ -1,41 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Bank\\Bank\\",
+  "WorkspaceRootPath": "D:\\trab-c#\\Projeto-api-cartoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\bank\\bank\\bank\\controllers\\cartoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\controllers\\cartoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\bank\\bank\\bank\\services\\pedidoservice\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\services\\pedidoservice\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\bank\\bank\\bank\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\bank\\bank\\bank\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\bank\\bank\\bank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\bank\\bank\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\trab-c#\\projeto-api-cartoes\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\bank\\bank\\bank\\services\\pedidoservice\\vendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\services\\pedidoservice\\vendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\trab-c#\\projeto-api-cartoes\\bank\\controllers\\cartoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\controllers\\cartoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\bank\\bank\\bank\\controllers\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\trab-c#\\projeto-api-cartoes\\bank\\controllers\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\controllers\\pagamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\bank\\bank\\bank\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\trab-c#\\projeto-api-cartoes\\bank\\viewmodel\\pagamentosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\viewmodel\\pagamentosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\trab-c#\\projeto-api-cartoes\\bank\\services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\services\\pagamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\trab-c#\\projeto-api-cartoes\\bank\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\trab-c#\\projeto-api-cartoes\\bank\\domain\\pagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\domain\\pagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\trab-c#\\projeto-api-cartoes\\bank\\viewmodel\\calcularparcelasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\viewmodel\\calcularparcelasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\trab-c#\\projeto-api-cartoes\\bank\\services\\cartaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\services\\cartaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\trab-c#\\projeto-api-cartoes\\bank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\trab-c#\\projeto-api-cartoes\\bank\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\trab-c#\\projeto-api-cartoes\\bank\\bank.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\bank.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|d:\\trab-c#\\projeto-api-cartoes\\bank\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CF49C6FC-6C1B-4B22-982A-5C55F05958A0}|Bank\\Bank.csproj|solutionrelative:bank\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -46,118 +62,168 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProdutoService.cs",
-              "DocumentMoniker": "D:\\Bank\\Bank\\Bank\\Services\\PedidoService\\ProdutoService.cs",
-              "RelativeDocumentMoniker": "Bank\\Services\\PedidoService\\ProdutoService.cs",
-              "ToolTip": "D:\\Bank\\Bank\\Bank\\Services\\PedidoService\\ProdutoService.cs",
-              "RelativeToolTip": "Bank\\Services\\PedidoService\\ProdutoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Bank\\Common\\ApiResponse.cs",
+              "ToolTip": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "Bank\\Common\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T01:13:37.866Z",
+              "WhenOpened": "2024-09-21T18:11:14.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AlunosController.cs",
-              "DocumentMoniker": "D:\\Bank\\Bank\\Bank\\Controllers\\AlunosController.cs",
-              "RelativeDocumentMoniker": "Bank\\Controllers\\AlunosController.cs",
-              "ToolTip": "D:\\Bank\\Bank\\Bank\\Controllers\\AlunosController.cs",
-              "RelativeToolTip": "Bank\\Controllers\\AlunosController.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAwwJoAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CartoesController.cs",
+              "DocumentMoniker": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Controllers\\CartoesController.cs",
+              "RelativeDocumentMoniker": "Bank\\Controllers\\CartoesController.cs",
+              "ToolTip": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Controllers\\CartoesController.cs",
+              "RelativeToolTip": "Bank\\Controllers\\CartoesController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T01:03:00.279Z",
+              "WhenOpened": "2024-09-21T21:18:14.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Bank\\Bank\\Bank\\appsettings.json",
-              "RelativeDocumentMoniker": "Bank\\appsettings.json",
-              "ToolTip": "D:\\Bank\\Bank\\Bank\\appsettings.json",
-              "RelativeToolTip": "Bank\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-16T23:34:07.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AlunoService.cs",
-              "DocumentMoniker": "D:\\Bank\\Bank\\Bank\\Services\\AlunoService.cs",
-              "RelativeDocumentMoniker": "Bank\\Services\\AlunoService.cs",
-              "ToolTip": "D:\\Bank\\Bank\\Bank\\Services\\AlunoService.cs",
-              "RelativeToolTip": "Bank\\Services\\AlunoService.cs",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAAAOEAAAACAAAAAAAAAA==",
+              "Title": "PagamentoService.cs",
+              "DocumentMoniker": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Services\\PagamentoService.cs",
+              "RelativeDocumentMoniker": "Bank\\Services\\PagamentoService.cs",
+              "ToolTip": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Services\\PagamentoService.cs",
+              "RelativeToolTip": "Bank\\Services\\PagamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T01:12:43.341Z",
+              "WhenOpened": "2024-09-22T16:10:25.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CartoesController.cs",
-              "DocumentMoniker": "D:\\Bank\\Bank\\Bank\\Controllers\\CartoesController.cs",
-              "RelativeDocumentMoniker": "Bank\\Controllers\\CartoesController.cs",
-              "ToolTip": "D:\\Bank\\Bank\\Bank\\Controllers\\CartoesController.cs*",
-              "RelativeToolTip": "Bank\\Controllers\\CartoesController.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwBcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T23:31:51.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PagamentosController.cs",
-              "DocumentMoniker": "D:\\Bank\\Bank\\Bank\\Controllers\\PagamentosController.cs",
-              "RelativeDocumentMoniker": "Bank\\Controllers\\PagamentosController.cs",
-              "ToolTip": "D:\\Bank\\Bank\\Bank\\Controllers\\PagamentosController.cs",
-              "RelativeToolTip": "Bank\\Controllers\\PagamentosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T23:32:29.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Bank\\Bank\\Bank\\Program.cs",
+              "DocumentMoniker": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Program.cs",
               "RelativeDocumentMoniker": "Bank\\Program.cs",
-              "ToolTip": "D:\\Bank\\Bank\\Bank\\Program.cs",
-              "RelativeToolTip": "Bank\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Program.cs*",
+              "RelativeToolTip": "Bank\\Program.cs*",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwHcAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T23:11:39.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VendaService.cs",
-              "DocumentMoniker": "D:\\Bank\\Bank\\Bank\\Services\\PedidoService\\VendaService.cs",
-              "RelativeDocumentMoniker": "Bank\\Services\\PedidoService\\VendaService.cs",
-              "ToolTip": "D:\\Bank\\Bank\\Bank\\Services\\PedidoService\\VendaService.cs",
-              "RelativeToolTip": "Bank\\Services\\PedidoService\\VendaService.cs",
-              "ViewState": "AgIAAGUBAAAAAAAAAAAAAHEBAAACAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PagamentosViewModel.cs",
+              "DocumentMoniker": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\ViewModel\\PagamentosViewModel.cs",
+              "RelativeDocumentMoniker": "Bank\\ViewModel\\PagamentosViewModel.cs",
+              "ToolTip": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\ViewModel\\PagamentosViewModel.cs",
+              "RelativeToolTip": "Bank\\ViewModel\\PagamentosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T01:13:23.508Z",
+              "WhenOpened": "2024-09-22T15:52:43.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagamentosController.cs",
+              "DocumentMoniker": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Controllers\\PagamentosController.cs",
+              "RelativeDocumentMoniker": "Bank\\Controllers\\PagamentosController.cs",
+              "ToolTip": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Controllers\\PagamentosController.cs",
+              "RelativeToolTip": "Bank\\Controllers\\PagamentosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:33:41.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pagamentos.cs",
+              "DocumentMoniker": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Domain\\Pagamentos.cs",
+              "RelativeDocumentMoniker": "Bank\\Domain\\Pagamentos.cs",
+              "ToolTip": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Domain\\Pagamentos.cs",
+              "RelativeToolTip": "Bank\\Domain\\Pagamentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:38:54.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalcularParcelasViewModel.cs",
+              "DocumentMoniker": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\ViewModel\\CalcularParcelasViewModel.cs",
+              "RelativeDocumentMoniker": "Bank\\ViewModel\\CalcularParcelasViewModel.cs",
+              "ToolTip": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\ViewModel\\CalcularParcelasViewModel.cs",
+              "RelativeToolTip": "Bank\\ViewModel\\CalcularParcelasViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T16:42:40.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "CartaoService.cs",
+              "DocumentMoniker": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Services\\CartaoService.cs",
+              "RelativeDocumentMoniker": "Bank\\Services\\CartaoService.cs",
+              "ToolTip": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Services\\CartaoService.cs",
+              "RelativeToolTip": "Bank\\Services\\CartaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T19:28:48.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\appsettings.json",
+              "RelativeDocumentMoniker": "Bank\\appsettings.json",
+              "ToolTip": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\appsettings.json",
+              "RelativeToolTip": "Bank\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T23:34:07.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Bank\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Bank\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T19:11:59.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bank",
+              "DocumentMoniker": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Bank.csproj",
+              "RelativeDocumentMoniker": "Bank\\Bank.csproj",
+              "ToolTip": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Bank.csproj",
+              "RelativeToolTip": "Bank\\Bank.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-21T19:11:57.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Bank\\Bank\\Bank\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Bank\\appsettings.Development.json",
-              "ToolTip": "D:\\Bank\\Bank\\Bank\\appsettings.Development.json",
+              "ToolTip": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\appsettings.Development.json",
               "RelativeToolTip": "Bank\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

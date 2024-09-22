@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bank\\Bank\\Bank\\Bank.csproj": {}
+    "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Bank.csproj": {}
   },
   "projects": {
-    "D:\\Bank\\Bank\\Bank\\Bank.csproj": {
+    "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bank\\Bank\\Bank\\Bank.csproj",
+        "projectUniqueName": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Bank.csproj",
         "projectName": "Bank",
-        "projectPath": "D:\\Bank\\Bank\\Bank\\Bank.csproj",
+        "projectPath": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\Bank.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "D:\\Bank\\Bank\\Bank\\obj\\",
+        "outputPath": "D:\\trab-c#\\Projeto-api-cartoes\\Bank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "MySql.Data": {
               "target": "Package",
               "version": "[9.0.0, )"

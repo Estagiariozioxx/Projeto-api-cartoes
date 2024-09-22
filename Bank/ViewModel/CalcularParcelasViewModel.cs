@@ -1,10 +1,11 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace IntroAPI.ViewModel
+namespace Bank.ViewModel
 {
-    public class AlunoCriarViewModel
+    public class CalcularParcelasViewModel
     {
+        /*
         /// <summary>
         /// Nome do Aluno
         /// </summary>
@@ -16,6 +17,16 @@ namespace IntroAPI.ViewModel
         public DateTime DataNascimento { get; set; }
 
         [Required]
-        public int CidadeId { get; set; }
+        public int CidadeId { get; set; }*/
+        [Required]
+        public decimal ValorTotal { get; set; }
+        [Required]
+        public decimal TaxaJuros { get; set; }
+        [Required]
+        public int QuantidadeParcelas { get; set; }
+
+
+
+
     }
 }

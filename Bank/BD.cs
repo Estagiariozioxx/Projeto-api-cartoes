@@ -4,10 +4,16 @@ namespace Bank
 {
     public class BD
     {
-        public MySql.Data.MySqlClient.MySqlConnection CriarConexao()
+        private readonly string _connectionString;
+
+        public BD(string connectionString)
         {
-            string strCon = Environment.GetEnvironmentVariable("STRING_CONEXAO");
-            MySqlConnection conexao = new MySqlConnection(strCon);
+            _connectionString = connectionString;
+        }
+
+        public MySqlConnection CriarConexao()
+        {
+            MySqlConnection conexao = new MySqlConnection(_connectionString);
             return conexao;
         }
     }
