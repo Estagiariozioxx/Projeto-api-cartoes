@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Bank.Controllers.CartoesController",
+    "Method": "ObterBandeira",
+    "RelativePath": "cartoes/{cartao}/obter-bandeira",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartao",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

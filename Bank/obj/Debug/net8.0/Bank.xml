@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bank</name>
+    </assembly>
+    <members>
+        <member name="T:Bank.Controllers.CartoesController">
+             <summary>
+             Endpoints para gerenciar alunos.
+             </summary>
+            [Obsolete]
+        </member>
+        <member name="M:Bank.Controllers.CartoesController.ObterBandeira(System.String)">
+            <summary>
+            Obtém todos os alunos
+            </summary>
+            <returns>Uma lista de alunos.</returns>
+        </member>
+        <member name="P:IntroAPI.ViewModel.AlunoCriarViewModel.Nome">
+            <summary>
+            Nome do Aluno
+            </summary>
+        </member>
+    </members>
+</doc>
